@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @simonywang
-- 👀 I’m interested in NAS, router setting, etc.
-- 🌱 I’m currently learning nothing ...
